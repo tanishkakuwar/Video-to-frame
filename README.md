@@ -12,9 +12,7 @@ video-to-good-frames/
 │   └─ input.mp4          # sample / test video
 │
 ├─ good_frames/            # auto-created output folder
-│
-├─ requirements.txt
-└─ README.md
+
 
 
 What This Pipeline Does
